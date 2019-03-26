@@ -1,0 +1,9 @@
+bin/
+Debug/
+Project1/
+Project2/
+cash/
+2048/
+*.vcxproj
+*.sln
+*/.vs/
